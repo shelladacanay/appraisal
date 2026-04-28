@@ -726,4 +726,4 @@ tr:hover .xbtn-row { opacity: 1; }
 }
 .btn-save:hover:not(:disabled) { background: #f0c96b; transform: translateY(-1px); }
 .btn-save:disabled { opacity: .65; cursor: not-allowed; }
-</style>
+</style> 

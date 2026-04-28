@@ -13,7 +13,6 @@
       <router-link to="/records"   class="nav-item">📁 Records Inventory</router-link>
       <router-link to="/add"       class="nav-item">➕ Add Record</router-link>
       <router-link to="/reports"   class="nav-item">📋 Reports</router-link>
-      <router-link to="/about"     class="nav-item">ℹ️ Office Info</router-link>
     </nav>
     <div class="sidebar-footer">
       <button @click="logout" class="btn-logout">⬅ Sign Out</button>
